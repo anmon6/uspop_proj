@@ -19,3 +19,7 @@ After importing the data, I needed to clean it up to use for visualizations. I m
 
 ## Visualizations
 This program creates a bar graph to illustrate the US population growth and a pie chart to represent California's population proportion within the US population. Below are these visualizations:
+
+![alt text](https://github.com/anmon6/uspop_proj/blob/main/US_growth.PNG?raw=true)
+
+![alt text](https://github.com/anmon6/uspop_proj/blob/main/US_vs_California.PNG?raw=true)
